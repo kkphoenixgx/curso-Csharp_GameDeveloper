@@ -1,5 +1,0 @@
-mod 2                                                                                                  25/08/21
-
--Oraganizações na unity e alterações no layout
-
-Só explicação de janelas, bem rápido.
